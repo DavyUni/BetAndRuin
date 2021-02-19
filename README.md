@@ -1,2 +1,2 @@
-# B-R-Team-Tesseract-
+# BetAndRuin (Team Tesseract)
 University Project for Software Engineering Subject
